@@ -8,7 +8,8 @@ Project Assistant at the Institute of Theoretical and Computational Physics, Gra
 
 **Mobile phone:** +43 67761612388
 
-| [Google Scholar](https://scholar.google.com/citations?user=LUfT89UAAAAJ&hl=zh-CN) | [Github](https://github.com/guanshaoheng) | [LinkedIn](https://www.linkedin.com/in/shaoheng-guan-619a65225/)|
+| [Google Scholar](https://scholar.google.com/citations?user=LUfT89UAAAAJ&hl=zh-CN) | [Github](https://github.com/guanshaoheng) | [LinkedIn](https://www.linkedin.com/in/shaoheng-guan-619a65225/) |
+| :---: | :---: | :---: |
 
 ## Education
 
