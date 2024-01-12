@@ -8,7 +8,7 @@ Project Assistant at the Institute of Theoretical and Computational Physics, Gra
 
 **Mobile phone:** +43 67761612388
 
-[Google Scholar](https://scholar.google.com/citations?user=LUfT89UAAAAJ&hl=zh-CN) | [Github](https://github.com/guanshaoheng) | [LinkedIn](https://www.linkedin.com/in/shaoheng-guan-619a65225/)
+| [Google Scholar](https://scholar.google.com/citations?user=LUfT89UAAAAJ&hl=zh-CN) | [Github](https://github.com/guanshaoheng) | [LinkedIn](https://www.linkedin.com/in/shaoheng-guan-619a65225/)|
 
 ## Education
 
@@ -32,7 +32,7 @@ Project Assistant at the Institute of Theoretical and Computational Physics, Gra
 - School of Water Resources and Hydropower, Wuhan University, China
 - Title of Thesis: Inversion of EB model parameters for Hongjiadu rockfill dam
 
-## .[Peer-reviewed journal papers](https://scholar.google.com/citations?user=LUfT89UAAAAJ&hl=zh-CN)
+## [Peer-reviewed journal papers](https://scholar.google.com/citations?user=LUfT89UAAAAJ&hl=zh-CN)
 
 - Guan S, Qu T, Feng YT, et al. (2022) A machine learning based multi-scale computation framework for granular materials. *Acta Geotech*.
 - Guan S, Feng YT, Qu T, et al. (2023) An explicit FEM-NN framework and the analysis of error caused by NN-predicted stress. *Acta Geotech*.
