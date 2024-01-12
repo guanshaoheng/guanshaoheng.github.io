@@ -32,7 +32,7 @@ Project Assistant at the Institute of Theoretical and Computational Physics, Gra
 - School of Water Resources and Hydropower, Wuhan University, China
 - Title of Thesis: Inversion of EB model parameters for Hongjiadu rockfill dam
 
-## ![Peer-reviewed journal papers](https://scholar.google.com/citations?user=LUfT89UAAAAJ&hl=zh-CN)
+## .[Peer-reviewed journal papers](https://scholar.google.com/citations?user=LUfT89UAAAAJ&hl=zh-CN)
 
 - Guan S, Qu T, Feng YT, et al. (2022) A machine learning based multi-scale computation framework for granular materials. *Acta Geotech*.
 - Guan S, Feng YT, Qu T, et al. (2023) An explicit FEM-NN framework and the analysis of error caused by NN-predicted stress. *Acta Geotech*.
@@ -49,7 +49,7 @@ Project Assistant at the Institute of Theoretical and Computational Physics, Gra
 
 ## Research & Work Experience
 
-- **Postdoc in Graz University of Technology**, advised by Dr. Sascha Ranftl, working on "Physics-consistent neural networks, Gaussian process regression studies, constitutive modelling, and implementation in FE solver for partial differential equation (PDE) solutions", from Mar. 1, 2023, to present.
+- **Postdoc at the Graz University of Technology**, advised by Dr. Sascha Ranftl, working on "Physics-consistent neural networks, Gaussian process regression studies, constitutive modelling, and implementation in FE solver for partial differential equation (PDE) solutions", from Mar. 1, 2023, to present.
 - **Research Assistant (part-time) in Liverpool University**, supervised by Dr. Xue Zhang, working on "A physics-extended neural network model and its implementation in FE analyses", from Jan. 1, 2023, to February 28, 2023.
 - **Teaching Assistant:**
   - Introductory Geology for Engineers (Jan. 2022 - Apr. 2022) for Dr. Jude Clancy
